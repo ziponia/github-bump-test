@@ -24,17 +24,5 @@ jobs:
         with:
           minor-wording: "minor"
           major-wording: "major"
-          patch-wording:
-            "patch,fixes,fixed"
-            # defaulting to a patch bump.
+          patch-wording: "patch,fixes,fixed"
           rc-wording: "RELEASE,alpha"
-      # - name: Bump version and push tag
-      #   uses: TriPSs/conventional-changelog-action@master
-      #   with:
-      #     github-token: ${{ secrets.GITHUB_TOKEN_ACTION }}
-      #     git-message: "chore(release): {version}"
-      #     preset: "angular"
-      #     tag-prefix: ""
-      #     output-file: "CHANGELOG.md"
-      #     git-user-name: ziponia
-      #     git-user-email: thtjwls@gmail.com
