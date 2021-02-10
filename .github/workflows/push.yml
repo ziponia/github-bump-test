@@ -20,10 +20,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          minor-wording: "add,Adds,new"
-          major-wording: "MAJOR,cut-major"
+          minor-wording: "minor"
+          major-wording: "major"
           patch-wording:
-            "patch,fixes" # Providing patch-wording will override commits
+            "patch,fixes,fixed"
             # defaulting to a patch bump.
           rc-wording: "RELEASE,alpha"
       # - name: Bump version and push tag
