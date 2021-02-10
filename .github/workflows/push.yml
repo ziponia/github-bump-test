@@ -29,6 +29,8 @@ jobs:
           minor-wording: "minor"
           major-wording: "major,release"
           patch-wording: "patch,fixes,fixed"
+          commit-message-prefix: "update ci: "
+          
       - name: "Output Tag"
         env:
           NEW_TAG: ${{ steps.version-bump.outputs.newTag }}
