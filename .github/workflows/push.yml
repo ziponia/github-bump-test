@@ -24,9 +24,9 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.github_token }}
-          git-message: "chore(release): {version}"
-          git-user-name: "Awesome Changelog Action"
-          git-user-email: "awesome_changelog@github.actions.com"
+          git-message: "{version}"
+          git-user-name: "ziponia"
+          git-user-email: "thtjwls@gmail.com"
           preset: "angular"
           tag-prefix: "v"
           output-file: "CHANGELOG.md"
