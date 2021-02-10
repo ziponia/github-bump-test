@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - runs: |
+        runs: |
           git config user.name ziponia
           git config user.email thtjwls@gmail.com
           git config pull.rebase true
