@@ -1,3 +1,12 @@
+## [5.3.2](https://github.com/ziponia/github-bump-test/compare/v5.3.1...v5.3.2) (2021-02-10)
+
+
+### Bug Fixes
+
+* change version test ([4c55642](https://github.com/ziponia/github-bump-test/commit/4c55642ccd0f3681ef7d17bcd460d3a8779bde35))
+
+
+
 ## [5.3.1](https://github.com/ziponia/github-bump-test/compare/v5.3.0...v5.3.1) (2021-02-10)
 
 
@@ -36,10 +45,6 @@
 
 
 ## [1.1.1-beta.0](https://github.com/ziponia/github-bump-test/compare/v1.1.1-undefined.0...v1.1.1-beta.0) (2021-02-10)
-
-
-
-## [1.1.1-undefined.0](https://github.com/ziponia/github-bump-test/compare/v1.1.0...v1.1.1-undefined.0) (2021-02-10)
 
 
 
