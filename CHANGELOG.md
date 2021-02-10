@@ -1,3 +1,18 @@
+# [5.5.0](https://github.com/ziponia/github-bump-test/compare/v5.4.1...v5.5.0) (2021-02-10)
+
+
+### Bug Fixes
+
+* gh-5 ([b893475](https://github.com/ziponia/github-bump-test/commit/b8934756cf63b0f4427258defc72f2b68ab39d20)), closes [#5](https://github.com/ziponia/github-bump-test/issues/5) [#5](https://github.com/ziponia/github-bump-test/issues/5) [#6](https://github.com/ziponia/github-bump-test/issues/6) [#7](https://github.com/ziponia/github-bump-test/issues/7)
+* gh-6 ([30f2629](https://github.com/ziponia/github-bump-test/commit/30f26298b96ffb73f5dca036f029b7f6dd3f523d)), closes [#6](https://github.com/ziponia/github-bump-test/issues/6) [#7](https://github.com/ziponia/github-bump-test/issues/7)
+
+
+### Features
+
+* gh-7 ([39fa494](https://github.com/ziponia/github-bump-test/commit/39fa494d255c52e0e62dc455553f95cf603819b2)), closes [#7](https://github.com/ziponia/github-bump-test/issues/7) [#7](https://github.com/ziponia/github-bump-test/issues/7)
+
+
+
 ## [5.4.1](https://github.com/ziponia/github-bump-test/compare/v5.4.0...v5.4.1) (2021-02-10)
 
 
@@ -51,10 +66,6 @@
 
 
 # [4.0.0](https://github.com/ziponia/github-bump-test/compare/v3.0.0...v4.0.0) (2021-02-10)
-
-
-
-# [3.0.0](https://github.com/ziponia/github-bump-test/compare/v2.0.0...v3.0.0) (2021-02-10)
 
 
 
