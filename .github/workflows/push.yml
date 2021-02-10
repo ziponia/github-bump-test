@@ -23,6 +23,8 @@ jobs:
         uses: "phips28/gh-action-bump-version@master"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ziponia
+          GITHUB_EMAIL: thtjwls@gmail.com
         with:
           minor-wording: "minor"
           major-wording: "major,release"
