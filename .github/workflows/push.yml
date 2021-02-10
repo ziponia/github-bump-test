@@ -26,10 +26,10 @@ jobs:
           GITHUB_USER: ziponia
           GITHUB_EMAIL: thtjwls@gmail.com
         with:
-          minor-wording: "minor"
-          major-wording: "major,release"
-          patch-wording: "patch,fixes,fixed"
-          commit-message-prefix: "update ci: "
+          major-wording: "major,release,next"
+          minor-wording: "minor,feature,update"
+          patch-wording: "patch,fixes,fixed,hotfix"
+          commit-message-prefix: "🚀 update version to ->"
           
       - name: "Output Tag"
         env:
