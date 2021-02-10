@@ -19,13 +19,13 @@ jobs:
         run: |
           git config user.name ziponia
           git config user.email thtjwls@gmail.com
-      - name: "Automated Version Bump"
+      - name: "Checkout Version"
         uses: "phips28/gh-action-bump-version@master"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           minor-wording: "minor"
-          major-wording: "major"
+          major-wording: "major,release"
           patch-wording: "patch,fixes,fixed"
       - name: "Output Tag"
         env:
