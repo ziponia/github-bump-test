@@ -20,7 +20,7 @@ jobs:
           git config user.name ziponia
           git config user.email thtjwls@gmail.com
       - name: "Checkout Version"
-        uses: "phips28/gh-action-bump-version@master"
+        uses: "linkube-team/gh-action-bump-version@master"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ziponia
