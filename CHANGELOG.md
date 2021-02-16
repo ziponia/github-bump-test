@@ -1,3 +1,7 @@
+## [5.5.1](https://github.com/ziponia/github-bump-test/compare/v5.5.0...v5.5.1) (2021-02-16)
+
+
+
 # [5.5.0](https://github.com/ziponia/github-bump-test/compare/v5.4.1...v5.5.0) (2021-02-10)
 
 
@@ -62,10 +66,6 @@
 
 
 # [5.0.0](https://github.com/ziponia/github-bump-test/compare/v4.0.0...v5.0.0) (2021-02-10)
-
-
-
-# [4.0.0](https://github.com/ziponia/github-bump-test/compare/v3.0.0...v4.0.0) (2021-02-10)
 
 
 
